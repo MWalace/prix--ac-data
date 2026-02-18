@@ -1,24 +1,7 @@
 {
     "lastUpdated": "2026-02-18",
     "sources": [
-        "https://www.apple.com/fr/shop/buy-iphone",
-        "https://www.apple.com/fr-business/shop/buy-iphone/iphone-16/%C3%A9cran-de-6%2C7-pouces-128go-noir",
-        "https://www.apple.com/fr/shop/buy-ipad",
-        "https://www.apple.com/fr/shop/buy-ipad/ipad-air/%C3%A9cran-de-13-pouces-1to-gris-sid%C3%A9ral-wifi",
-        "https://www.apple.com/fr/shop/buy-ipad/ipad/64go-argent-wifi",
-        "https://www.apple.com/fr/shop/buy-mac",
-        "https://www.apple.com/fr/shop/buy-watch",
-        "https://www.apple.com/fr/shop/buy-vision",
-        "https://www.apple.com/fr/shop/buy-airpods/airpods-4",
-        "https://www.apple.com/fr/shop/buy-airpods/airpods-pro-3",
-        "https://www.apple.com/fr/shop/buy-airpods/airpods-max",
-        "https://www.apple.com/fr/shop/buy-homepod/homepod",
-        "https://www.apple.com/fr/shop/buy-tv/apple-tv-4k",
-        "https://www.apple.com/fr/shop/buy-airtag/airtag/pack-de-1",
-        "https://www.apple.com/fr/newsroom/2025/10/apple-vision-pro-upgraded-with-the-powerful-m5-chip/",
-        "https://www.apple.com/fr/newsroom/2024/06/apple-vision-pro-is-available-to-pre-order/",
         "https://www.apple.com/legal/sales-support/applecare/applecareplus/2510/251015_applecareplus_fr_pa.pdf",
-        "https://www.apple.com/legal/sales-support/applecare/applecareplus/2509/250909_applecareplus_fr_tl_pa.pdf",
         "https://www.apple.com/legal/sales-support/applecare/applecareplus/2510/251015_applecareplusmac_fr_pa.pdf"
     ],
     "categories": [
@@ -29,7 +12,6 @@
                 {
                     "id": "iphone-17-pro",
                     "name": "iPhone 17 Pro / Pro Max",
-                    "price": "À partir de 1 329 €",
                     "colorHex": "#FF6B6B",
                     "appleCare": {
                         "standardOneTime": "229€",
@@ -41,7 +23,6 @@
                 {
                     "id": "iphone-air",
                     "name": "iPhone Air",
-                    "price": "À partir de 1 229 €",
                     "colorHex": "#F4A261",
                     "appleCare": {
                         "standardOneTime": "229€",
@@ -53,7 +34,6 @@
                 {
                     "id": "iphone-17",
                     "name": "iPhone 17",
-                    "price": "À partir de 969 €",
                     "colorHex": "#06D6A0",
                     "appleCare": {
                         "standardOneTime": "169€",
@@ -65,7 +45,6 @@
                 {
                     "id": "iphone-16",
                     "name": "iPhone 16",
-                    "price": "À partir de 869 €",
                     "colorHex": "#3A86FF",
                     "appleCare": {
                         "standardOneTime": "169€",
@@ -77,7 +56,6 @@
                 {
                     "id": "iphone-16-plus",
                     "name": "iPhone 16 Plus",
-                    "price": "À partir de 969 €",
                     "colorHex": "#8338EC",
                     "appleCare": {
                         "standardOneTime": "199€",
@@ -89,7 +67,6 @@
                 {
                     "id": "iphone-16e",
                     "name": "iPhone 16e",
-                    "price": "À partir de 719 €",
                     "colorHex": "#2A9D8F",
                     "appleCare": {
                         "standardOneTime": "139€",
@@ -101,59 +78,14 @@
             ]
         },
         {
-            "id": "ipad",
-            "name": "iPad",
-            "items": [
-                {
-                    "id": "ipad-pro",
-                    "name": "iPad Pro (11/13 pouces)",
-                    "price": "À partir de 1 119 €",
-                    "colorHex": "#0EA5E9",
-                    "appleCare": {
-                        "standardOneTime": "159–179€",
-                        "standardMonthly": "7,99–8,99€/mo"
-                    }
-                },
-                {
-                    "id": "ipad-air",
-                    "name": "iPad Air (11/13 pouces)",
-                    "price": "À partir de 669 €",
-                    "colorHex": "#6366F1",
-                    "appleCare": {
-                        "standardOneTime": "89–109€",
-                        "standardMonthly": "4,49–5,49€/mo"
-                    }
-                },
-                {
-                    "id": "ipad",
-                    "name": "iPad (A16)",
-                    "price": "À partir de 389 €",
-                    "colorHex": "#22C55E",
-                    "appleCare": {
-                        "standardOneTime": "79€",
-                        "standardMonthly": "3,99€/mo"
-                    }
-                },
-                {
-                    "id": "ipad-mini",
-                    "name": "iPad mini (A17 Pro)",
-                    "price": "À partir de 559 €",
-                    "colorHex": "#F97316",
-                    "appleCare": {
-                        "standardOneTime": "79€",
-                        "standardMonthly": "3,99€/mo"
-                    }
-                }
-            ]
-        },
-        {
             "id": "mac",
             "name": "Mac",
+            "standardLabel": "AC+ 3 ans",
+            "annualLabel": "AC+ annuel (mensualités)",
             "items": [
                 {
                     "id": "macbook-air",
                     "name": "MacBook Air (13/15 pouces)",
-                    "price": "À partir de 1 099 €",
                     "colorHex": "#38BDF8",
                     "appleCare": {
                         "standardOneTime": "219–249€",
@@ -163,7 +95,6 @@
                 {
                     "id": "macbook-pro",
                     "name": "MacBook Pro (14/16 pouces)",
-                    "price": "À partir de 1 799 €",
                     "colorHex": "#A855F7",
                     "appleCare": {
                         "standardOneTime": "299–429€",
@@ -173,7 +104,6 @@
                 {
                     "id": "imac",
                     "name": "iMac",
-                    "price": "À partir de 1 499 €",
                     "colorHex": "#10B981",
                     "appleCare": {
                         "standardOneTime": "179€",
@@ -183,7 +113,6 @@
                 {
                     "id": "mac-mini",
                     "name": "Mac mini",
-                    "price": "À partir de 699 €",
                     "colorHex": "#F59E0B",
                     "appleCare": {
                         "standardOneTime": "119€",
@@ -193,7 +122,6 @@
                 {
                     "id": "mac-studio",
                     "name": "Mac Studio",
-                    "price": "À partir de 2 299 €",
                     "colorHex": "#F43F5E",
                     "appleCare": {
                         "standardOneTime": "179€",
@@ -203,7 +131,6 @@
                 {
                     "id": "mac-pro",
                     "name": "Mac Pro",
-                    "price": "À partir de 8 299 €",
                     "colorHex": "#64748B",
                     "appleCare": {
                         "standardOneTime": "529€",
@@ -213,7 +140,6 @@
                 {
                     "id": "studio-display",
                     "name": "Studio Display",
-                    "price": "À partir de 1 749 €",
                     "colorHex": "#06B6D4",
                     "appleCare": {
                         "standardOneTime": "139€",
@@ -223,7 +149,6 @@
                 {
                     "id": "pro-display-xdr",
                     "name": "Pro Display XDR",
-                    "price": "À partir de 5 499 €",
                     "colorHex": "#94A3B8",
                     "appleCare": {
                         "standardOneTime": "499€",
@@ -235,21 +160,12 @@
         {
             "id": "watch",
             "name": "Apple Watch",
+            "standardLabel": "AC+ durée déterminée",
+            "annualLabel": "AC+ annuel (mensualités)",
             "items": [
                 {
-                    "id": "watch-series-11",
-                    "name": "Apple Watch Series 11",
-                    "price": "À partir de 449 €",
-                    "colorHex": "#14B8A6",
-                    "appleCare": {
-                        "standardOneTime": "89€",
-                        "standardMonthly": "4,49€/mo"
-                    }
-                },
-                {
-                    "id": "watch-se-3",
-                    "name": "Apple Watch SE 3",
-                    "price": "À partir de 269 €",
+                    "id": "watch-series-3-se",
+                    "name": "Apple Watch Series 3 / SE",
                     "colorHex": "#22C55E",
                     "appleCare": {
                         "standardOneTime": "65€",
@@ -257,9 +173,17 @@
                     }
                 },
                 {
-                    "id": "watch-ultra-3",
-                    "name": "Apple Watch Ultra 3",
-                    "price": "À partir de 800 €",
+                    "id": "watch-series-4-11",
+                    "name": "Apple Watch Series 4 à 11",
+                    "colorHex": "#14B8A6",
+                    "appleCare": {
+                        "standardOneTime": "89€",
+                        "standardMonthly": "4,49€/mo"
+                    }
+                },
+                {
+                    "id": "watch-ultra",
+                    "name": "Apple Watch Ultra",
                     "colorHex": "#F59E0B",
                     "appleCare": {
                         "standardOneTime": "109€",
@@ -267,141 +191,14 @@
                     }
                 },
                 {
-                    "id": "watch-hermes-series-11",
-                    "name": "Apple Watch Hermès Series 11",
-                    "price": "À partir de 1 050 €",
+                    "id": "watch-hermes",
+                    "name": "Apple Watch Hermès / Hermès Ultra",
                     "colorHex": "#F97316",
                     "appleCare": {
                         "standardOneTime": "169€",
                         "standardMonthly": "5,49€/mo"
                     }
-                },
-                {
-                    "id": "watch-hermes-ultra-3",
-                    "name": "Apple Watch Hermès Ultra 3",
-                    "price": "À partir de 1 100 €",
-                    "colorHex": "#FB7185",
-                    "appleCare": {
-                        "standardOneTime": "169€",
-                        "standardMonthly": "5,49€/mo"
-                    }
                 }
-            ]
-        },
-        {
-            "id": "vision",
-            "name": "Apple Vision Pro",
-            "items": [
-                {
-                    "id": "vision-pro",
-                    "name": "Apple Vision Pro",
-                    "price": "À partir de 3 699 €",
-                    "colorHex": "#3B82F6",
-                    "appleCare": {
-                        "standardOneTime": "549€",
-                        "standardMonthly": null
-                    }
-                }
-            ]
-        },
-        {
-            "id": "airpods",
-            "name": "AirPods",
-            "items": [
-                {
-                    "id": "airpods-4",
-                    "name": "AirPods 4",
-                    "price": "149,00 €",
-                    "colorHex": "#2DD4BF",
-                    "appleCare": {
-                        "standardOneTime": "35€",
-                        "standardMonthly": null
-                    }
-                },
-                {
-                    "id": "airpods-4-anc",
-                    "name": "AirPods 4 (Réduction active du bruit)",
-                    "price": "199,00 €",
-                    "colorHex": "#60A5FA",
-                    "appleCare": {
-                        "standardOneTime": "35€",
-                        "standardMonthly": null
-                    }
-                },
-                {
-                    "id": "airpods-pro-3",
-                    "name": "AirPods Pro 3",
-                    "price": "249,00 €",
-                    "colorHex": "#A78BFA",
-                    "appleCare": {
-                        "standardOneTime": "45€",
-                        "standardMonthly": null
-                    }
-                },
-                {
-                    "id": "airpods-max",
-                    "name": "AirPods Max",
-                    "price": "579,00 €",
-                    "colorHex": "#F472B6",
-                    "appleCare": {
-                        "standardOneTime": "59€",
-                        "standardMonthly": null
-                    }
-                }
-            ]
-        },
-        {
-            "id": "tv-home",
-            "name": "TV & Maison",
-            "items": [
-                {
-                    "id": "apple-tv-4k-wifi",
-                    "name": "Apple TV 4K (Wi‑Fi, 64 Go)",
-                    "price": "169,00 €",
-                    "colorHex": "#38BDF8",
-                    "appleCare": {
-                        "standardOneTime": "29€",
-                        "standardMonthly": null
-                    }
-                },
-                {
-                    "id": "apple-tv-4k-ethernet",
-                    "name": "Apple TV 4K (Wi‑Fi + Ethernet, 128 Go)",
-                    "price": "189,00 €",
-                    "colorHex": "#0EA5E9",
-                    "appleCare": {
-                        "standardOneTime": "29€",
-                        "standardMonthly": null
-                    }
-                },
-                {
-                    "id": "homepod",
-                    "name": "HomePod",
-                    "price": "349,00 €",
-                    "colorHex": "#FB7185",
-                    "appleCare": {
-                        "standardOneTime": "39€",
-                        "standardMonthly": null
-                    }
-                },
-                {
-                    "id": "homepod-mini",
-                    "name": "HomePod mini",
-                    "price": "109,00 €",
-                    "colorHex": "#FCD34D",
-                    "appleCare": {
-                        "standardOneTime": "15€",
-                        "standardMonthly": null
-                    }
-                }
-            ]
-        },
-        {
-            "id": "airtag",
-            "name": "AirTag",
-            "items": [
-                { "id": "airtag-1", "name": "AirTag (pack de 1)", "price": "35,00 €", "colorHex": "#94A3B8" },
-                { "id": "airtag-4", "name": "AirTag (pack de 4)", "price": "119,00 €", "colorHex": "#64748B" }
             ]
         }
     ]
