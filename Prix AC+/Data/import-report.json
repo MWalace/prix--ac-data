@@ -1,0 +1,224 @@
+{
+    "matched": 43,
+    "total": 43,
+    "ratio": 1.0,
+    "main": [
+        {
+            "id": "iphone-17-pro",
+            "status": "updated",
+            "row": ", 17 Pro Max, 16 Pro, 16 Pro Max, 15 Pro,\n15 Pro Max, 14 Pro, 14 Pro Max, 13 Pro, 13 Pro Max,\n12 Pro, 12 Pro Max, 11 Pro, 11 Pro Max, XS, XS Max,\nX : 229 € 11,99 €/mo\niPod : 59 € -\nCes prix incluent la taxe sur les primes d’assurance au taux applicable, l’assurance CATNAT\net la contribution au fonds de garantie des victimes du terrorisme.\nLa Franchise pour l’Équipement couvert ci-dessous est la suivante :\nAirPods : 29 €\nApple TV : 15 €\nApple Watch (tous les modèles, sauf Ultra, Hermès et Edition) : 65 €\nApple Watch Ultra : 75 €\nApple Watch Edition, Hermès, Hermès Ultra : 75 €\nBeats : 29 €\nHome"
+        },
+        {
+            "id": "iphone-17-pro-max",
+            "status": "updated",
+            "row": ", 16 Pro, 16 Pro Max, 15 Pro,\n15 Pro Max, 14 Pro, 14 Pro Max, 13 Pro, 13 Pro Max,\n12 Pro, 12 Pro Max, 11 Pro, 11 Pro Max, XS, XS Max,\nX : 229 € 11,99 €/mo\niPod : 59 € -\nCes prix incluent la taxe sur les primes d’assurance au taux applicable, l’assurance CATNAT\net la contribution au fonds de garantie des victimes du terrorisme.\nLa Franchise pour l’Équipement couvert ci-dessous est la suivante :\nAirPods : 29 €\nApple TV : 15 €\nApple Watch (tous les modèles, sauf Ultra, Hermès et Edition) : 65 €\nApple Watch Ultra : 75 €\nApple Watch Edition, Hermès, Hermès Ultra : 75 €\nBeats : 29 €\nHomePod mini : 1"
+        },
+        {
+            "id": "iphone-air",
+            "status": "updated",
+            "row": "iPhone Air : 229 € 11,99 €/mo"
+        },
+        {
+            "id": "iphone-17",
+            "status": "updated",
+            "row": ", 15, 14, 13 mini, 13, 12 mini, 12, 11, XR,\n8 Plus, 7 Plus : 169 € 8,99 €/mo\niPhone 16 Plus, 15 Plus, 14 Plus : 199 € 9,99 €/mo\niPhone Air : 229 € 11,99 €/mo"
+        },
+        {
+            "id": "iphone-16",
+            "status": "updated",
+            "row": ", 15, 14, 13 mini, 13, 12 mini, 12, 11, XR,\n8 Plus, 7 Plus : 169 € 8,99 €/mo\niPhone 16 Plus, 15 Plus, 14 Plus : 199 € 9,99 €/mo\niPhone Air : 229 € 11,99 €/mo"
+        },
+        {
+            "id": "iphone-16-plus",
+            "status": "updated",
+            "row": "iPhone 16 Plus, 15 Plus, 14 Plus : 199 € 9,99 €/mo"
+        },
+        {
+            "id": "iphone-16e",
+            "status": "updated",
+            "row": "iPhone 16e : 139 € 6,99 €/mo"
+        },
+        {
+            "id": "ipad-10-a16",
+            "status": "updated",
+            "row": " : 79 € 3,99 €/mo\niPad Air (4e génération et antérieure) : 79 € 3,99 €/mo\niPad Air (5e génération) : 89 € 4,49 €/mo\niPad Air 11” (M3, M2) : 89 € 4,49 €/mo\niPad Air 13” (M3, M2) : 109 € 5,49 €/mo\niPad Pro 11” (4e génération et antérieure) : 139 € 6,99 €/mo\niPad Pro 11” (M5, M4) : 159 € 7,99 €/mo\niPad Pro 12,9” (4e génération et antérieure) : 139 € 6,99 €/mo\niPad Pro 12,9” (6e et 5e générations) : 159 € 7,99 €/mo\niPad Pro 13” (M5, M4) : 179 € 8,99 €/mo\niPhone SE : 89 € 4,49 €/mo\niPhone 16e : 139 € 6,99 €/mo\niPhone 8, 7 : 149 € 7,49 €/mo\niPhone 17, 16, 15, 14, 13 mini, 13, 12 mini, 12, 11, XR,\n8 "
+        },
+        {
+            "id": "ipad-mini-a17-pro",
+            "status": "updated",
+            "row": " : 79 € 3,99 €/mo\niPad Air (4e génération et antérieure) : 79 € 3,99 €/mo\niPad Air (5e génération) : 89 € 4,49 €/mo\niPad Air 11” (M3, M2) : 89 € 4,49 €/mo\niPad Air 13” (M3, M2) : 109 € 5,49 €/mo\niPad Pro 11” (4e génération et antérieure) : 139 € 6,99 €/mo\niPad Pro 11” (M5, M4) : 159 € 7,99 €/mo\niPad Pro 12,9” (4e génération et antérieure) : 139 € 6,99 €/mo\niPad Pro 12,9” (6e et 5e générations) : 159 € 7,99 €/mo\niPad Pro 13” (M5, M4) : 179 € 8,99 €/mo\niPhone SE : 89 € 4,49 €/mo\niPhone 16e : 139 € 6,99 €/mo\niPhone 8, 7 : 149 € 7,49 €/mo\niPhone 17, 16, 15, 14, 13 mini, 13, 12 mini, 12, 11, XR,\n8 "
+        },
+        {
+            "id": "ipad-air-11",
+            "status": "updated",
+            "row": "iPad Air 11” (M3, M2) : 89 € 4,49 €/mo"
+        },
+        {
+            "id": "ipad-air-13",
+            "status": "updated",
+            "row": "iPad Air 13” (M3, M2) : 109 € 5,49 €/mo"
+        },
+        {
+            "id": "ipad-pro-11",
+            "status": "updated",
+            "row": "iPad Pro 11” (M5, M4) : 159 € 7,99 €/mo"
+        },
+        {
+            "id": "ipad-pro-13",
+            "status": "updated",
+            "row": "iPad Pro 13” (M5, M4) : 179 € 8,99 €/mo"
+        },
+        {
+            "id": "watch-se-3",
+            "status": "updated",
+            "row": "Apple Watch Series 3, SE : 65 € 2,99 €/mo"
+        },
+        {
+            "id": "watch-series-11",
+            "status": "updated",
+            "row": "Apple Watch Series 4, 5, 6, 7, 8, 9, 10, 11 : 89 € 4,49 €/mo"
+        },
+        {
+            "id": "watch-ultra-3",
+            "status": "updated",
+            "row": "Apple Watch Ultra : 109 € 5,49 €/mo"
+        },
+        {
+            "id": "watch-hermes-11",
+            "status": "updated",
+            "row": "Apple Watch Edition, Hermès, Hermès Ultra : 169 € 5,49 €/mo"
+        },
+        {
+            "id": "watch-hermes-ultra-3",
+            "status": "updated",
+            "row": "Apple Watch Edition, Hermès, Hermès Ultra : 169 € 5,49 €/mo"
+        },
+        {
+            "id": "airpods-4",
+            "status": "updated",
+            "row": "AirPods, AirPods Pro (2e génération et antérieure) : 35 € -"
+        },
+        {
+            "id": "airpods-4-anc",
+            "status": "updated",
+            "row": "AirPods, AirPods Pro (2e génération et antérieure) : 35 € -"
+        },
+        {
+            "id": "airpods-pro-3",
+            "status": "updated",
+            "row": "AirPods Pro (3e génération) : 45 € -"
+        },
+        {
+            "id": "airpods-max",
+            "status": "updated",
+            "row": "AirPods Max : 59 € -"
+        },
+        {
+            "id": "beats-studio-pro",
+            "status": "updated",
+            "row": "Beats : 35 € -"
+        },
+        {
+            "id": "beats-solo-4",
+            "status": "updated",
+            "row": "Beats : 35 € -"
+        },
+        {
+            "id": "beats-solo-buds",
+            "status": "updated",
+            "row": "Beats : 35 € -"
+        },
+        {
+            "id": "powerbeats-fit",
+            "status": "updated",
+            "row": "Beats : 35 € -"
+        },
+        {
+            "id": "powerbeats-pro-2",
+            "status": "updated",
+            "row": "Beats : 35 € -"
+        },
+        {
+            "id": "beats-studio-buds-plus",
+            "status": "updated",
+            "row": "Beats : 35 € -"
+        },
+        {
+            "id": "beats-flex",
+            "status": "updated",
+            "row": "Beats : 35 € -"
+        },
+        {
+            "id": "beats-pill",
+            "status": "updated",
+            "row": "Beats : 35 € -"
+        },
+        {
+            "id": "appletv-4k",
+            "status": "updated",
+            "row": "Apple TV : 29 € -"
+        },
+        {
+            "id": "homepod-mini",
+            "status": "updated",
+            "row": "HomePod mini : 15 € -"
+        },
+        {
+            "id": "homepod-2",
+            "status": "updated",
+            "row": "HomePod : 39 € -"
+        }
+    ],
+    "mac": [
+        {
+            "id": "macbook-air-13",
+            "status": "updated",
+            "row": " MacBook Air 13” (puce Apple M1, M2) :     199 €   69,99 €   "
+        },
+        {
+            "id": "macbook-air-15",
+            "status": "updated",
+            "row": " MacBook Air 15” (puce Apple M2, M3) :     249 €   89,99 €   "
+        },
+        {
+            "id": "macbook-pro-14",
+            "status": "updated",
+            "row": " MacBook Pro 14” :     299 €   109,99 €   "
+        },
+        {
+            "id": "macbook-pro-16",
+            "status": "updated",
+            "row": " MacBook Pro 16” (puce Apple) :     429 €   159,99 €   "
+        },
+        {
+            "id": "imac",
+            "status": "updated",
+            "row": " : 179 € 64,99 €\niMac Pro : 179 € 64,99 €\nMac mini : 119 € 44,99 €\nMac Pro (Intel) : 349 € 129,99 €\nMac Pro (puce Apple) : 529 € 189,99 €\nMac Studio (M2 Max/M2 Ultra) : 179 € 64,99 €\nMac Studio (M4 Max/M3 Ultra) : 179 € 64,99 €\nMacBook Air 13” (puce Apple M1, M2) : 199 € 69,99 €\nMacBook Air 13” (puce Apple M3) : 219 € 79,99 €\nMacBook Air 13” (puce Apple M4) : 219 € 79,99 €\nMacBook Air 15” (puce Apple M2, M3) : 249 € 89,99 €\nMacBook Air 15” (puce Apple M4) : 249 € 89,99 €\nMacBook Air (Intel) : 199 € 69,99 €\nMacBook Pro 13” (puce Apple) : 279 € 99,99 €\nMacBook Pro 13” (Intel) : 299 € 109,99 €\nMa"
+        },
+        {
+            "id": "mac-mini",
+            "status": "updated",
+            "row": " Mac mini :     119 €   44,99 €   "
+        },
+        {
+            "id": "mac-studio",
+            "status": "updated",
+            "row": " Mac Studio (M2 Max/M2 Ultra) :     179 €   64,99 €   "
+        },
+        {
+            "id": "mac-pro",
+            "status": "updated",
+            "row": "i Mac Pro :     179 €   64,99 €   "
+        },
+        {
+            "id": "studio-display",
+            "status": "updated",
+            "row": "A pple Studio Display :     139 €   49,99 €   "
+        },
+        {
+            "id": "pro-display-xdr",
+            "status": "updated",
+            "row": " : 499 € 179,99 €\nApple Studio Display : 139 € 49,99 €\nCes prix incluent la taxe sur les primes d’assurance au taux applicable, l’assurance CATNAT\net la contribution au fonds de garantie des victimes du terrorisme.\nLa Franchise pour l’Équipement couvert est la suivante :\nMac Écran Apple\nDéclaration de sinistre pour Dommages accidentels de Niveau 1 : 99 € 99 €\n- Dommages accidentels de l’écran uniquement\n- Dommages accidentels du boîtier extérieur uniquement\nDéclaration de sinistre pour Dommages accidentels de Niveau 2 : 259 € 259 €\n- Autre dommage accidentel :"
+        }
+    ]
+}
