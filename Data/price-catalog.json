@@ -1,9 +1,10 @@
 {
-    "lastUpdated": "2026-02-20",
+    "lastUpdated": "2026-02-22",
     "sources": [
         "https://www.apple.com/legal/sales-support/applecare/applecareplus/2510/251015_applecareplus_fr_pa.pdf",
         "https://www.apple.com/legal/sales-support/applecare/applecareplus/2510/251015_applecareplusmac_fr_pa.pdf",
-        "https://www.apple.com/legal/sales-support/applecare/applecareplus/2510/251015_applecareplus_apple-vision_fr_pa.pdf"
+        "https://www.apple.com/legal/sales-support/applecare/applecareplus/2510/251015_applecareplus_apple-vision_fr_pa.pdf",
+        "https://www.apple.com/legal/sales-support/applecare/applecareplus/2509/250909_applecareplus_fr_tl_pa.pdf"
     ],
     "categories": [
         {
@@ -16,10 +17,12 @@
                     "name": "iPhone 17 Pro",
                     "colorHex": "#1F2937",
                     "appleCare": {
-                        "standardOneTime": "229€",
-                        "standardMonthly": "11,99€/mo",
+                        "standardOneTime": "229 €",
+                        "standardMonthly": "11,99 €",
                         "standardDuration": "2 ans",
-                        "monthlyDuration": "1 an, par mois"
+                        "monthlyDuration": "1 an, par mois",
+                        "theftOneTime": "299 €",
+                        "theftMonthly": "14,99 €"
                     }
                 },
                 {
@@ -27,10 +30,12 @@
                     "name": "iPhone Air",
                     "colorHex": "#475569",
                     "appleCare": {
-                        "standardOneTime": "229€",
-                        "standardMonthly": "11,99€/mo",
+                        "standardOneTime": "229 €",
+                        "standardMonthly": "11,99 €",
                         "standardDuration": "2 ans",
-                        "monthlyDuration": "1 an, par mois"
+                        "monthlyDuration": "1 an, par mois",
+                        "theftOneTime": "299 €",
+                        "theftMonthly": "14,99 €"
                     }
                 },
                 {
@@ -38,10 +43,12 @@
                     "name": "iPhone 17",
                     "colorHex": "#0EA5E9",
                     "appleCare": {
-                        "standardOneTime": "169€",
-                        "standardMonthly": "8,99€/mo",
+                        "standardOneTime": "169 €",
+                        "standardMonthly": "8,99 €",
                         "standardDuration": "2 ans",
-                        "monthlyDuration": "1 an, par mois"
+                        "monthlyDuration": "1 an, par mois",
+                        "theftOneTime": "229 €",
+                        "theftMonthly": "11,99 €"
                     }
                 },
                 {
@@ -49,10 +56,12 @@
                     "name": "iPhone 16",
                     "colorHex": "#22C55E",
                     "appleCare": {
-                        "standardOneTime": "169€",
-                        "standardMonthly": "8,99€/mo",
+                        "standardOneTime": "169 €",
+                        "standardMonthly": "8,99 €",
                         "standardDuration": "2 ans",
-                        "monthlyDuration": "1 an, par mois"
+                        "monthlyDuration": "1 an, par mois",
+                        "theftOneTime": "229 €",
+                        "theftMonthly": "11,99 €"
                     }
                 },
                 {
@@ -60,10 +69,12 @@
                     "name": "iPhone 16e",
                     "colorHex": "#F59E0B",
                     "appleCare": {
-                        "standardOneTime": "139€",
-                        "standardMonthly": "6,99€/mo",
+                        "standardOneTime": "139 €",
+                        "standardMonthly": "6,99 €",
                         "standardDuration": "2 ans",
-                        "monthlyDuration": "1 an, par mois"
+                        "monthlyDuration": "1 an, par mois",
+                        "theftOneTime": "199 €",
+                        "theftMonthly": "9,99 €"
                     }
                 }
             ]
@@ -78,8 +89,8 @@
                     "name": "iPad Pro 11\" (M5)",
                     "colorHex": "#7C3AED",
                     "appleCare": {
-                        "standardOneTime": "159€",
-                        "standardMonthly": "7,99€/mo",
+                        "standardOneTime": "159 €",
+                        "standardMonthly": "7,99 €",
                         "standardDuration": "2 ans",
                         "monthlyDuration": "1 an, par mois"
                     }
@@ -89,8 +100,8 @@
                     "name": "iPad Pro 13\" (M5)",
                     "colorHex": "#A855F7",
                     "appleCare": {
-                        "standardOneTime": "179€",
-                        "standardMonthly": "8,99€/mo",
+                        "standardOneTime": "179 €",
+                        "standardMonthly": "8,99 €",
                         "standardDuration": "2 ans",
                         "monthlyDuration": "1 an, par mois"
                     }
@@ -100,8 +111,8 @@
                     "name": "iPad Air 11\" (M3)",
                     "colorHex": "#2563EB",
                     "appleCare": {
-                        "standardOneTime": "89€",
-                        "standardMonthly": "4,49€/mo",
+                        "standardOneTime": "89 €",
+                        "standardMonthly": "4,49 €",
                         "standardDuration": "2 ans",
                         "monthlyDuration": "1 an, par mois"
                     }
@@ -111,8 +122,8 @@
                     "name": "iPad Air 13\" (M3)",
                     "colorHex": "#1D4ED8",
                     "appleCare": {
-                        "standardOneTime": "109€",
-                        "standardMonthly": "5,49€/mo",
+                        "standardOneTime": "109 €",
+                        "standardMonthly": "5,49 €",
                         "standardDuration": "2 ans",
                         "monthlyDuration": "1 an, par mois"
                     }
@@ -122,8 +133,8 @@
                     "name": "iPad (A16)",
                     "colorHex": "#0F766E",
                     "appleCare": {
-                        "standardOneTime": "79€",
-                        "standardMonthly": "3,99€/mo",
+                        "standardOneTime": "79 €",
+                        "standardMonthly": "3,99 €",
                         "standardDuration": "2 ans",
                         "monthlyDuration": "1 an, par mois"
                     }
@@ -133,8 +144,8 @@
                     "name": "iPad mini (A17 Pro)",
                     "colorHex": "#0EA5E9",
                     "appleCare": {
-                        "standardOneTime": "79€",
-                        "standardMonthly": "3,99€/mo",
+                        "standardOneTime": "79 €",
+                        "standardMonthly": "3,99 €",
                         "standardDuration": "2 ans",
                         "monthlyDuration": "1 an, par mois"
                     }
@@ -151,8 +162,8 @@
                     "name": "MacBook Air 13\" (M4)",
                     "colorHex": "#38BDF8",
                     "appleCare": {
-                        "standardOneTime": "219€",
-                        "standardMonthly": "79,99€/mo",
+                        "standardOneTime": "219 €",
+                        "standardMonthly": "79,99 €",
                         "standardDuration": "3 ans",
                         "monthlyDuration": "Par an"
                     }
@@ -162,8 +173,8 @@
                     "name": "MacBook Air 15\" (M4)",
                     "colorHex": "#0EA5E9",
                     "appleCare": {
-                        "standardOneTime": "249€",
-                        "standardMonthly": "89,99€/mo",
+                        "standardOneTime": "249 €",
+                        "standardMonthly": "89,99 €",
                         "standardDuration": "3 ans",
                         "monthlyDuration": "Par an"
                     }
@@ -173,8 +184,8 @@
                     "name": "MacBook Pro 14\" (M5 / M4 Pro / M4 Max)",
                     "colorHex": "#8B5CF6",
                     "appleCare": {
-                        "standardOneTime": "299€",
-                        "standardMonthly": "109,99€/mo",
+                        "standardOneTime": "299 €",
+                        "standardMonthly": "109,99 €",
                         "standardDuration": "3 ans",
                         "monthlyDuration": "Par an"
                     }
@@ -184,8 +195,8 @@
                     "name": "MacBook Pro 16\" (M4 Pro / M4 Max)",
                     "colorHex": "#7C3AED",
                     "appleCare": {
-                        "standardOneTime": "429€",
-                        "standardMonthly": "159,99€/mo",
+                        "standardOneTime": "429 €",
+                        "standardMonthly": "159,99 €",
                         "standardDuration": "3 ans",
                         "monthlyDuration": "Par an"
                     }
@@ -195,8 +206,8 @@
                     "name": "iMac (M4)",
                     "colorHex": "#10B981",
                     "appleCare": {
-                        "standardOneTime": "179€",
-                        "standardMonthly": "64,99€/mo",
+                        "standardOneTime": "179 €",
+                        "standardMonthly": "64,99 €",
                         "standardDuration": "3 ans",
                         "monthlyDuration": "Par an"
                     }
@@ -206,8 +217,8 @@
                     "name": "Mac mini (M4 / M4 Pro)",
                     "colorHex": "#F59E0B",
                     "appleCare": {
-                        "standardOneTime": "119€",
-                        "standardMonthly": "44,99€/mo",
+                        "standardOneTime": "119 €",
+                        "standardMonthly": "44,99 €",
                         "standardDuration": "3 ans",
                         "monthlyDuration": "Par an"
                     }
@@ -217,8 +228,8 @@
                     "name": "Mac Studio (M3 Ultra / M4 Max)",
                     "colorHex": "#F43F5E",
                     "appleCare": {
-                        "standardOneTime": "179€",
-                        "standardMonthly": "64,99€/mo",
+                        "standardOneTime": "179 €",
+                        "standardMonthly": "64,99 €",
                         "standardDuration": "3 ans",
                         "monthlyDuration": "Par an"
                     }
@@ -228,8 +239,8 @@
                     "name": "Mac Pro (M2 Ultra)",
                     "colorHex": "#64748B",
                     "appleCare": {
-                        "standardOneTime": "529€",
-                        "standardMonthly": "189,99€/mo",
+                        "standardOneTime": "179 €",
+                        "standardMonthly": "64,99 €",
                         "standardDuration": "3 ans",
                         "monthlyDuration": "Par an"
                     }
@@ -239,8 +250,8 @@
                     "name": "Studio Display",
                     "colorHex": "#06B6D4",
                     "appleCare": {
-                        "standardOneTime": "139€",
-                        "standardMonthly": "49,99€/mo",
+                        "standardOneTime": "139 €",
+                        "standardMonthly": "49,99 €",
                         "standardDuration": "3 ans",
                         "monthlyDuration": "Par an"
                     }
@@ -250,8 +261,8 @@
                     "name": "Pro Display XDR",
                     "colorHex": "#94A3B8",
                     "appleCare": {
-                        "standardOneTime": "499€",
-                        "standardMonthly": "179,99€/mo",
+                        "standardOneTime": "499 €",
+                        "standardMonthly": "179,99 €",
                         "standardDuration": "3 ans",
                         "monthlyDuration": "Par an"
                     }
@@ -268,8 +279,8 @@
                     "name": "Apple Watch SE 3",
                     "colorHex": "#22C55E",
                     "appleCare": {
-                        "standardOneTime": "65€",
-                        "standardMonthly": "2,99€/mo",
+                        "standardOneTime": "65 €",
+                        "standardMonthly": "2,99 €",
                         "standardDuration": "2 ans",
                         "monthlyDuration": "1 an, par mois"
                     }
@@ -279,8 +290,8 @@
                     "name": "Apple Watch Series 11",
                     "colorHex": "#14B8A6",
                     "appleCare": {
-                        "standardOneTime": "89€",
-                        "standardMonthly": "4,49€/mo",
+                        "standardOneTime": "89 €",
+                        "standardMonthly": "4,49 €",
                         "standardDuration": "2 ans",
                         "monthlyDuration": "1 an, par mois"
                     }
@@ -290,8 +301,8 @@
                     "name": "Apple Watch Ultra 3",
                     "colorHex": "#F59E0B",
                     "appleCare": {
-                        "standardOneTime": "109€",
-                        "standardMonthly": "5,49€/mo",
+                        "standardOneTime": "109 €",
+                        "standardMonthly": "5,49 €",
                         "standardDuration": "2 ans",
                         "monthlyDuration": "1 an, par mois"
                     }
@@ -301,8 +312,8 @@
                     "name": "Apple Watch Hermes Series 11",
                     "colorHex": "#F97316",
                     "appleCare": {
-                        "standardOneTime": "169€",
-                        "standardMonthly": "5,49€/mo",
+                        "standardOneTime": "169 €",
+                        "standardMonthly": "5,49 €",
                         "standardDuration": "3 ans",
                         "monthlyDuration": "1 an, par mois"
                     }
@@ -312,8 +323,8 @@
                     "name": "Apple Watch Hermes Ultra 3",
                     "colorHex": "#EA580C",
                     "appleCare": {
-                        "standardOneTime": "169€",
-                        "standardMonthly": "5,49€/mo",
+                        "standardOneTime": "169 €",
+                        "standardMonthly": "5,49 €",
                         "standardDuration": "3 ans",
                         "monthlyDuration": "1 an, par mois"
                     }
@@ -330,8 +341,8 @@
                     "name": "Apple Vision Pro (M5)",
                     "colorHex": "#A1A1AA",
                     "appleCare": {
-                        "standardOneTime": "429€",
-                        "standardMonthly": "21,99€/mo",
+                        "standardOneTime": "429 €",
+                        "standardMonthly": "21,99 €",
                         "standardDuration": "2 ans",
                         "monthlyDuration": "1 an, par mois"
                     }
@@ -348,7 +359,7 @@
                     "name": "AirPods 4",
                     "colorHex": "#E5E7EB",
                     "appleCare": {
-                        "standardOneTime": "35€",
+                        "standardOneTime": "35 €",
                         "standardDuration": "2 ans"
                     }
                 },
@@ -357,7 +368,7 @@
                     "name": "AirPods 4 (reduction active du bruit)",
                     "colorHex": "#D1D5DB",
                     "appleCare": {
-                        "standardOneTime": "35€",
+                        "standardOneTime": "35 €",
                         "standardDuration": "2 ans"
                     }
                 },
@@ -366,7 +377,7 @@
                     "name": "AirPods Pro 3",
                     "colorHex": "#9CA3AF",
                     "appleCare": {
-                        "standardOneTime": "45€",
+                        "standardOneTime": "45 €",
                         "standardDuration": "2 ans"
                     }
                 },
@@ -375,7 +386,7 @@
                     "name": "AirPods Max",
                     "colorHex": "#6B7280",
                     "appleCare": {
-                        "standardOneTime": "59€",
+                        "standardOneTime": "59 €",
                         "standardDuration": "2 ans"
                     }
                 }
@@ -425,7 +436,7 @@
                     "name": "Beats Studio Pro",
                     "colorHex": "#1F2937",
                     "appleCare": {
-                        "standardOneTime": "35€",
+                        "standardOneTime": "35 €",
                         "standardDuration": "2 ans"
                     }
                 },
@@ -434,7 +445,7 @@
                     "name": "Beats Solo 4",
                     "colorHex": "#374151",
                     "appleCare": {
-                        "standardOneTime": "35€",
+                        "standardOneTime": "35 €",
                         "standardDuration": "2 ans"
                     }
                 },
@@ -443,7 +454,7 @@
                     "name": "Powerbeats Fit",
                     "colorHex": "#0F766E",
                     "appleCare": {
-                        "standardOneTime": "35€",
+                        "standardOneTime": "35 €",
                         "standardDuration": "2 ans"
                     }
                 },
@@ -452,7 +463,7 @@
                     "name": "Powerbeats Pro 2",
                     "colorHex": "#7C2D12",
                     "appleCare": {
-                        "standardOneTime": "35€",
+                        "standardOneTime": "35 €",
                         "standardDuration": "2 ans"
                     }
                 },
@@ -461,7 +472,7 @@
                     "name": "Beats Solo Buds",
                     "colorHex": "#6B7280",
                     "appleCare": {
-                        "standardOneTime": "35€",
+                        "standardOneTime": "35 €",
                         "standardDuration": "2 ans"
                     }
                 },
@@ -470,7 +481,7 @@
                     "name": "Beats Flex",
                     "colorHex": "#111827",
                     "appleCare": {
-                        "standardOneTime": "35€",
+                        "standardOneTime": "35 €",
                         "standardDuration": "2 ans"
                     }
                 },
@@ -479,7 +490,7 @@
                     "name": "Beats Studio Buds+",
                     "colorHex": "#4B5563",
                     "appleCare": {
-                        "standardOneTime": "35€",
+                        "standardOneTime": "35 €",
                         "standardDuration": "2 ans"
                     }
                 },
@@ -488,7 +499,7 @@
                     "name": "Beats Pill",
                     "colorHex": "#0B0F19",
                     "appleCare": {
-                        "standardOneTime": "35€",
+                        "standardOneTime": "35 €",
                         "standardDuration": "2 ans"
                     }
                 }
