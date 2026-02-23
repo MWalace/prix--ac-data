@@ -248,8 +248,47 @@
             "theftOneTime": "299 €",
             "theftMonthly": "14,99 €"
           },
+          "sourceStatus": "no-match",
+          "theftStatus": "updated"
+        },
+        {
+          "id": "iphone-17-pro-max",
+          "name": "iPhone 17 Pro Max",
+          "colorHex": null,
+          "appleCare": {
+            "standardOneTime": "229 €",
+            "standardMonthly": "11,99 €",
+            "theftOneTime": "299 €",
+            "theftMonthly": "14,99 €"
+          },
           "sourceStatus": "updated",
           "theftStatus": "updated"
+        }
+      ],
+      "repairFees": [
+        {
+          "id": "screen",
+          "kind": "screen",
+          "amount": "29 €"
+        },
+        {
+          "id": "back-glass",
+          "kind": "back-glass",
+          "amount": "29 €",
+          "appliesTo": {
+            "minGeneration": 12,
+            "includeAir": true
+          }
+        },
+        {
+          "id": "other-damage",
+          "kind": "other-damage",
+          "amount": "99 €"
+        },
+        {
+          "id": "theft-loss",
+          "kind": "theft-loss",
+          "amount": "129 €"
         }
       ]
     },
@@ -311,8 +350,8 @@
           "name": "iPad (A16)",
           "colorHex": "#0F766E",
           "appleCare": {
-            "standardOneTime": "29 €",
-            "standardMonthly": "99 €",
+            "standardOneTime": "79 €",
+            "standardMonthly": "3,99 €",
             "standardDuration": "2 ans",
             "monthlyDuration": "1 an, par mois"
           },
@@ -323,12 +362,50 @@
           "name": "iPad mini (A17 Pro)",
           "colorHex": "#0EA5E9",
           "appleCare": {
-            "standardOneTime": "29 €",
-            "standardMonthly": "99 €",
+            "standardOneTime": "79 €",
+            "standardMonthly": "3,99 €",
             "standardDuration": "2 ans",
             "monthlyDuration": "1 an, par mois"
           },
           "sourceStatus": "updated"
+        }
+      ],
+      "repairFees": [
+        {
+          "id": "apple-pencil",
+          "kind": "custom",
+          "label": "Apple Pencil",
+          "amount": "29 €"
+        },
+        {
+          "id": "apple-pencil-pro",
+          "kind": "custom",
+          "label": "Apple Pencil Pro",
+          "amount": "29 €"
+        },
+        {
+          "id": "clavier-ipad-de-marque-apple",
+          "kind": "custom",
+          "label": "Clavier iPad de marque Apple",
+          "amount": "29 €"
+        },
+        {
+          "id": "dommages-accidentels-sur-l-cran-uniquement-tous-les-mod-les-d-ipad-air-11-m3-m2-ipad-air-13-m3-m2-ipad-pro-11-m5-m4-ipad-pro-13-m5-m4-ipad-a16-ipad-mini-a17-pro-uniquement",
+          "kind": "custom",
+          "label": "Dommages accidentels sur l’écran uniquement (tous les modèles d’iPad Air 11” (M3, M2), iPad Air 13” (M3, M2), iPad Pro 11” (M5, M4), iPad Pro 13” (M5, M4), iPad (A16), iPad mini (A17 Pro) uniquement)",
+          "amount": "29 €"
+        },
+        {
+          "id": "autre-dommage-accidentel-ipad-air-11-m3-m2-ipad-air-13-m3-m2-ipad-pro-11-m5-m4-ipad-pro-13-m5-m4-ipad-a16-ipad-mini-a17-pro",
+          "kind": "custom",
+          "label": "Autre dommage accidentel (iPad Air 11” (M3, M2), iPad Air 13” (M3, M2), iPad Pro 11” (M5, M4), iPad Pro 13” (M5, M4), iPad (A16), iPad mini (A17 Pro))",
+          "amount": "99 €"
+        },
+        {
+          "id": "autres-dommages-accidentels-tous-les-autres-mod-les-d-ipad",
+          "kind": "custom",
+          "label": "Autres dommages accidentels (tous les autres modèles d’iPad)",
+          "amount": "49 €"
         }
       ]
     },
@@ -457,6 +534,34 @@
           },
           "sourceStatus": "updated"
         }
+      ],
+      "repairFees": [
+        {
+          "id": "niveau-1",
+          "kind": "custom",
+          "label": "Niveau 1 (écran ou boîtier)",
+          "amount": "99 €"
+        },
+        {
+          "id": "niveau-2",
+          "kind": "custom",
+          "label": "Niveau 2 (autre dommage)",
+          "amount": "259 €"
+        }
+      ],
+      "displayRepairFees": [
+        {
+          "id": "niveau-1",
+          "kind": "custom",
+          "label": "Niveau 1 (écran ou boîtier)",
+          "amount": "99 €"
+        },
+        {
+          "id": "niveau-2",
+          "kind": "custom",
+          "label": "Niveau 2 (autre dommage)",
+          "amount": "259 €"
+        }
       ]
     },
     {
@@ -534,6 +639,26 @@
           },
           "sourceStatus": "updated"
         }
+      ],
+      "repairFees": [
+        {
+          "id": "tous-les-mod-les-sauf-ultra-herm-s-et-edition",
+          "kind": "custom",
+          "label": "(tous les modèles, sauf Ultra, Hermès et Edition)",
+          "amount": "65 €"
+        },
+        {
+          "id": "ultra",
+          "kind": "custom",
+          "label": "Ultra",
+          "amount": "75 €"
+        },
+        {
+          "id": "edition-herm-s-herm-s-ultra",
+          "kind": "custom",
+          "label": "Edition, Hermès, Hermès Ultra",
+          "amount": "75 €"
+        }
       ]
     },
     {
@@ -552,6 +677,26 @@
             "monthlyDuration": "1 an, par mois"
           },
           "sourceStatus": "updated"
+        }
+      ],
+      "repairFees": [
+        {
+          "id": "apple-vision-pro",
+          "kind": "custom",
+          "label": "Apple Vision Pro",
+          "amount": "429 €"
+        },
+        {
+          "id": "d-claration-de-sinistre-pour-dommages-accidentels-de-niveau-1",
+          "kind": "custom",
+          "label": "Déclaration de sinistre pour Dommages accidentels de Niveau 1",
+          "amount": "29 €"
+        },
+        {
+          "id": "dommage-sur-des-accessoires-inclus-d-claration-de-sinistre-pour-dommages-accidentels-de-niveau-2",
+          "kind": "custom",
+          "label": "- Dommage sur des Accessoires inclus Déclaration de sinistre pour Dommages accidentels de Niveau 2",
+          "amount": "299 €"
         }
       ]
     },
@@ -604,6 +749,14 @@
           },
           "sourceStatus": "updated"
         }
+      ],
+      "repairFees": [
+        {
+          "id": "airpods",
+          "kind": "custom",
+          "label": "AirPods",
+          "amount": "29 €"
+        }
       ]
     },
     {
@@ -637,6 +790,26 @@
             "standardOneTime": "39€",
             "standardDuration": "2 ans"
           }
+        }
+      ],
+      "repairFees": [
+        {
+          "id": "apple-tv",
+          "kind": "custom",
+          "label": "Apple TV",
+          "amount": "15 €"
+        },
+        {
+          "id": "homepod",
+          "kind": "custom",
+          "label": "HomePod",
+          "amount": "29 €"
+        },
+        {
+          "id": "homepod-mini",
+          "kind": "custom",
+          "label": "HomePod mini",
+          "amount": "15 €"
         }
       ]
     },
@@ -732,6 +905,14 @@
             "standardMonthly": "15 €"
           },
           "sourceStatus": "updated"
+        }
+      ],
+      "repairFees": [
+        {
+          "id": "beats",
+          "kind": "custom",
+          "label": "Beats",
+          "amount": "29 €"
         }
       ]
     }
