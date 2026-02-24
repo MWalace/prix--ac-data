@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23",
+  "lastUpdated": "2026-02-24",
   "sources": [
     "https://www.apple.com/legal/sales-support/applecare/applecareplus/2510/251015_applecareplus_fr_pa.pdf",
     "https://www.apple.com/legal/sales-support/applecare/applecareplus/2510/251015_applecareplusmac_fr_pa.pdf",
@@ -375,37 +375,81 @@
           "id": "apple-pencil",
           "kind": "custom",
           "label": "Apple Pencil",
-          "amount": "29 €"
+          "amount": "29 €",
+          "appliesTo": {
+            "includeIds": [
+              "ipad-pro-11-m5",
+              "ipad-pro-13-m5",
+              "ipad-air-11-m3",
+              "ipad-air-13-m3",
+              "ipad-a16",
+              "ipad-mini-a17-pro"
+            ]
+          }
         },
         {
           "id": "apple-pencil-pro",
           "kind": "custom",
           "label": "Apple Pencil Pro",
-          "amount": "29 €"
+          "amount": "29 €",
+          "appliesTo": {
+            "includeIds": [
+              "ipad-pro-11-m5",
+              "ipad-pro-13-m5",
+              "ipad-air-11-m3",
+              "ipad-air-13-m3",
+              "ipad-a16",
+              "ipad-mini-a17-pro"
+            ]
+          }
         },
         {
-          "id": "clavier-ipad-de-marque-apple",
+          "id": "ipad-keyboard",
           "kind": "custom",
-          "label": "Clavier iPad de marque Apple",
-          "amount": "29 €"
+          "label": "Clavier iPad (Apple)",
+          "amount": "29 €",
+          "appliesTo": {
+            "includeIds": [
+              "ipad-pro-11-m5",
+              "ipad-pro-13-m5",
+              "ipad-air-11-m3",
+              "ipad-air-13-m3",
+              "ipad-a16",
+              "ipad-mini-a17-pro"
+            ]
+          }
         },
         {
-          "id": "dommages-accidentels-sur-l-cran-uniquement-tous-les-mod-les-d-ipad-air-11-m3-m2-ipad-air-13-m3-m2-ipad-pro-11-m5-m4-ipad-pro-13-m5-m4-ipad-a16-ipad-mini-a17-pro-uniquement",
-          "kind": "custom",
-          "label": "Dommages accidentels sur l’écran uniquement (tous les modèles d’iPad Air 11” (M3, M2), iPad Air 13” (M3, M2), iPad Pro 11” (M5, M4), iPad Pro 13” (M5, M4), iPad (A16), iPad mini (A17 Pro) uniquement)",
-          "amount": "29 €"
+          "id": "screen",
+          "kind": "screen",
+          "label": "Dommages accidentels sur l’écran",
+          "amount": "29 €",
+          "appliesTo": {
+            "includeIds": [
+              "ipad-pro-11-m5",
+              "ipad-pro-13-m5",
+              "ipad-air-11-m3",
+              "ipad-air-13-m3",
+              "ipad-a16",
+              "ipad-mini-a17-pro"
+            ]
+          }
         },
         {
-          "id": "autre-dommage-accidentel-ipad-air-11-m3-m2-ipad-air-13-m3-m2-ipad-pro-11-m5-m4-ipad-pro-13-m5-m4-ipad-a16-ipad-mini-a17-pro",
-          "kind": "custom",
-          "label": "Autre dommage accidentel (iPad Air 11” (M3, M2), iPad Air 13” (M3, M2), iPad Pro 11” (M5, M4), iPad Pro 13” (M5, M4), iPad (A16), iPad mini (A17 Pro))",
-          "amount": "99 €"
-        },
-        {
-          "id": "autres-dommages-accidentels-tous-les-autres-mod-les-d-ipad",
-          "kind": "custom",
-          "label": "Autres dommages accidentels (tous les autres modèles d’iPad)",
-          "amount": "49 €"
+          "id": "other-damage",
+          "kind": "other-damage",
+          "label": "Autre dommage accidentel",
+          "amount": "99 €",
+          "appliesTo": {
+            "includeIds": [
+              "ipad-pro-11-m5",
+              "ipad-pro-13-m5",
+              "ipad-air-11-m3",
+              "ipad-air-13-m3",
+              "ipad-a16",
+              "ipad-mini-a17-pro"
+            ]
+          }
         }
       ]
     },
@@ -681,21 +725,15 @@
       ],
       "repairFees": [
         {
-          "id": "apple-vision-pro",
+          "id": "niveau-1",
           "kind": "custom",
-          "label": "Apple Vision Pro",
-          "amount": "429 €"
-        },
-        {
-          "id": "d-claration-de-sinistre-pour-dommages-accidentels-de-niveau-1",
-          "kind": "custom",
-          "label": "Déclaration de sinistre pour Dommages accidentels de Niveau 1",
+          "label": "Dommage sur des accessoires inclus",
           "amount": "29 €"
         },
         {
-          "id": "dommage-sur-des-accessoires-inclus-d-claration-de-sinistre-pour-dommages-accidentels-de-niveau-2",
+          "id": "niveau-2",
           "kind": "custom",
-          "label": "- Dommage sur des Accessoires inclus Déclaration de sinistre pour Dommages accidentels de Niveau 2",
+          "label": "Autre dommage accidentel",
           "amount": "299 €"
         }
       ]
